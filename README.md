@@ -10,7 +10,7 @@ Ideal for showcasing on the Pump.fun main page.
 If you have git installed on your computer you can fetch the content of this repository with the command
 
 ``` 
-git clone 
+git clone https://github.com/GigaS0l/Free-Bump-Bot-Pump.fun.git
 
 ```
 Else, you can download the repository in a zip here : 
