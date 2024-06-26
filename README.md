@@ -70,9 +70,14 @@ const TOKEN_ADDR = ""; //
 ```
 # Run the Bump Bot
 
-To run the bump bot, in cmd.exe or terminal, execute the following command:
+To run the bump bot, in cmd.exe or terminal, execute the following commands:
 
 ```
+cd /path/to/the/folder
+```
+
+```
+
 node index.js
 ```
 The bot will buy the token four times and then sell all the balance.
